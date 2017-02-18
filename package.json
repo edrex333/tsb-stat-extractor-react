@@ -9,6 +9,8 @@
     "babel-loader": "^6.3.2",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
+    "react-file-input": "^0.2.5",
+    "tsb-stat-extractor": "^1.0.2",
     "webpack": "^2.2.1"
   },
   "devDependencies": {

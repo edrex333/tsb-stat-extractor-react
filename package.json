@@ -5,6 +5,10 @@
   "repository": "git@github.com:retro-games/tsb-stat-extractor-react.git",
   "author": "edrex333 <edrex333@gmail.com>",
   "license": "GPL-3.0",
+  "scripts": {
+    "dev": "webpack -d --watch",
+    "build": "webpack -p"
+  },
   "dependencies": {
     "babel-loader": "^6.4.1",
     "react": "^15.4.2",
